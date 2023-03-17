@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.themeLight {
+  background-color: #fff;
+  color: #000;
+  padding: 16px;
+  border: 1px solid #e1e1e1;
+  margin: 16px;
+}
+
+.themeDark {
+  background-color: #000;
+  color: #fff;
+  padding: 16px;
+  border: 1px solid #e1e1e1;
+  margin: 16px;
+}
